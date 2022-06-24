@@ -1,6 +1,6 @@
 # Desktop version of mobile first
 
-<img height="300px" src="">
+<img height="300px" src="https://i.imgur.com/CGTx3LE.gif">
 
 Projeto original do Figma: https://www.figma.com/file/XtEYMNGnZi9Cm9NsNCH0is/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A1
 
